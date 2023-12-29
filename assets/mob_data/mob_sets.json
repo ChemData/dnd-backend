@@ -1,0 +1,284 @@
+{
+    "wolves": {
+        "name": "wolves",
+        "mobs": [
+            "wolf",
+            "dire wolf",
+            "mastiff"
+        ]
+    },
+    "bears": {
+        "name": "bears",
+        "mobs": [
+            "black bear",
+            "brown bear",
+            "cave bear"
+        ]
+    },
+    "millipedes": {
+        "name": "millipedes",
+        "mobs": [
+            "giant millipede",
+            "adult giant millipede",
+            "giant centipede",
+            "swarm of centipedes"
+        ]
+    },
+    "bandits": {
+        "name": "bandits",
+        "mobs": [
+            "bandit",
+            "bandit captain",
+            "veteran",
+            "knight",
+            "scout",
+            "gladiator",
+            "druid",
+            "spy"
+        ]
+    },
+    "dwarves": {
+        "name": "dwarves",
+        "mobs": [
+            "orc war chief",
+            "hobgoblin captain",
+            "hobgoblin warlord",
+            "mage",
+            "veteran",
+            "priest",
+            "berserker",
+            "duergar",
+            "scout"
+        ]
+    },
+    "thri-kreen": {
+        "name": "thri-kreen",
+        "mobs": [
+            "thri-kreen"
+        ]
+    },
+    "sahuagin": {
+        "name": "sahuagin",
+        "mobs": [
+            "sahuagin",
+            "sahuagin baron",
+            "sahuagin priestess",
+            "giant sea horse",
+            "reef shark"
+        ]
+    },
+    "coastal_elementals": {
+        "name": "coastal elementals",
+        "mobs": [
+            "air elemental",
+            "ice mephit",
+            "water elemental",
+            "water weird",
+            "marid",
+            "mud mephit"
+        ]
+    },
+    "land_elementals": {
+        "name": "land elementals",
+        "mobs": [
+            "dao",
+            "dust mephit",
+            "galeb duhr",
+            "gargoyle",
+            "mud mephit",
+            "xorn",
+            "earth elemental"
+        ]
+    },
+    "mountain_elementals": {
+        "name": "mountain elementals",
+        "mobs": [
+            "galeb duhr",
+            "gargoyle",
+            "dust mephit",
+            "air elemental",
+            "earth elemental"
+        ]
+    },
+    "fire_elementals": {
+        "name": "fire elementals",
+        "mobs": [
+            "smoke mephit",
+            "steam mephit",
+            "magma mephit",
+            "magmin",
+            "fire elemental",
+            "fire snake"
+        ]
+    },
+    "forest_creatures": {
+        "name": "forest creatures",
+        "mobs": [
+            "giant weasel",
+            "boar",
+            "elk",
+            "giant badger",
+            "giant goat",
+            "giant elk"
+        ]
+    },
+    "reptiles": {
+        "name": "reptiles",
+        "mobs": [
+            "lizard",
+            "flying snake",
+            "poisonous snake",
+            "constrictor snake",
+            "giant lizard",
+            "giant poisonous snake",
+            "crocodile",
+            "giant constrictor snake",
+            "swarm of poisonous snakes",
+            "giant crocodile"
+        ]
+    },
+    "rhinos": {
+        "name": "rhinos",
+        "mobs": [
+            "rhinoceros",
+            "draft horse",
+            "triceratops"
+        ]
+    },
+    "ankhegs": {
+        "name": "ankhegs",
+        "mobs": [
+            "ankheg",
+            "ankheg tunneler",
+            "ankheg worker",
+            "ankheg queen"
+        ]
+    },
+    "boars": {
+        "name": "boars",
+        "mobs": [
+            "boar",
+            "giant boar",
+            "badger"
+        ]
+    },
+    "ogres": {
+        "name": "ogres",
+        "mobs": [
+            "half-ogre (ogrillon)",
+            "ogre",
+            "giant hyena",
+            "hyena",
+            "boulder thrower",
+            "cyclops"
+        ]
+    },
+    "harpies": {
+        "name": "harpies",
+        "mobs": [
+            "harpy",
+            "blood hawk",
+            "axe beak",
+            "giant owl",
+            "cockatrice",
+            "giant eagle",
+            "wingmistress"
+        ]
+    },
+    "spiders": {
+        "name": "spiders",
+        "mobs": [
+            "swarm of spiders",
+            "giant wolf spider",
+            "spider",
+            "giant spider",
+            "phase spider"
+        ]
+    },
+    "vampires": {
+        "name": "vampires",
+        "mobs": [
+            "vampire spawn",
+            "vampire",
+            "vampire spellcaster",
+            "vampire warrior"
+        ]
+    },
+    "cultists": {
+        "name": "cultists",
+        "mobs": [
+            "cultist",
+            "priest",
+            "mage",
+            "cult fanatic",
+            "acolyte",
+            "archmage",
+            "guard"
+        ]
+    },
+    "satyrs": {
+        "name": "satyrs",
+        "mobs": [
+            "satyr",
+            "goat",
+            "giant goat",
+            "swarm of wasps",
+            "satyr marksman",
+            "satyr charger"
+        ]
+    },
+    "kuo-toas": {
+        "name": "kuo-toas",
+        "mobs": [
+            "kuo-toa",
+            "kuo-toa whip",
+            "kuo-toa monitor",
+            "kuo-toa archpriest",
+            "giant crab",
+            "crocodile"
+        ]
+    },
+    "centaurs": {
+        "name": "centaurs",
+        "mobs": [
+            "centaur"
+        ]
+    },
+    "hyenas": {
+        "name": "hyenas",
+        "mobs": [
+            "jackal",
+            "hyena",
+            "giant hyena"
+        ]
+    },
+    "plants": {
+        "name": "plants",
+        "mobs": [
+            "awakened shrub",
+            "awakened tree",
+            "shambling mound",
+            "treant",
+            "twig blight",
+            "vine blight"
+        ]
+    },
+    "fungi": {
+        "name": "fungi",
+        "mobs": [
+            "myconid adult",
+            "myconid sovereign",
+            "myconid sprout",
+            "violet fungus",
+            "shrieker"
+        ]
+    },
+    "hippos": {
+        "name": "hippos",
+        "mobs": [
+            "juvenile hippo",
+            "adult hippo",
+            "alpha hippo"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "southern_forest": {
+        "name": "southern forest",
+        "mob_sets": [
+            "wolves",
+            "bears",
+            "millipedes",
+            "bandits",
+            "forest_creatures",
+            "boars",
+            "ogres",
+            "harpies",
+            "spiders",
+            "satyrs",
+            "plants",
+            "hippos"
+        ]
+    },
+    "southern_shore": {
+        "name": "southern shore",
+        "mob_sets": [
+            "kuo-toas",
+            "coastal_elementals",
+            "sahuagin",
+            "bandits",
+            "ogres",
+            "plants",
+            "hippos"
+        ]
+    },
+    "southern_plains": {
+        "name": "southern plains",
+        "mob_sets": [
+            "wolves",
+            "bandits",
+            "rhinos",
+            "boars",
+            "millipedes",
+            "land_elementals",
+            "reptiles",
+            "ankhegs",
+            "hyenas",
+            "hippos"
+        ]
+    }
+}
